@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>easyexecl</artifactId>
+    <artifactId>JavaTest</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -92,9 +92,6 @@
             <artifactId>guava</artifactId>
             <version>30.1-jre</version>
         </dependency>
-
-
-
 
     </dependencies>
 
